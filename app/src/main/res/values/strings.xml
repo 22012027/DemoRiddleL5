@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoRiddleL5</string>
+    <string name="question_1">Question 1 \n this word has the same \n pronunciation even after \n removing 4 letters from it</string>
+    <string name="reveal">REVEAL</string>
+    <string name="question_2">Question 2 \n how did you make 1 \n disappear?</string>
+    <string name="reveal2">REVEAL</string>
+</resources>
